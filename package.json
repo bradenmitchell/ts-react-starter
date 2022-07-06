@@ -1,0 +1,8 @@
+{
+  "name": "ts-react-starter",
+  "version": "1.0.0",
+  "description": "React starter built with typescript, webpack and babel",
+  "license": "MIT",
+  "author": "Braden Mitchell",
+  "repository": "https://github.com/bradenmitchell/ts-react-starter.git"
+}
